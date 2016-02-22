@@ -1,0 +1,59 @@
+span {
+	font-style: underline;
+	font-family: courier;
+	font-color: red;
+}
+
+
+body :first-child {
+    font-size:18px;
+	margin-left:550px;
+	margin-right:-50px;
+    
+}
+
+body :nth-child(2) {
+	font-size:8px;
+	margin-left:-50px;
+	margin-right:550px;
+}
+
+body :nth-child(3) {
+    font-size:28px;
+	margin-left:-50px;
+	margin-right:550px;
+	
+}
+
+body :nth-child(4) {
+	font-size:18px;
+	margin-left:550px;
+	margin-right:-50px;
+}
+
+body :nth-child(5) {
+	font-size:18px;
+	margin-left:250px;
+	margin-right:150px;
+}
+
+body :nth-child(6) {
+	font-size:8px;
+	margin-left:-50px;
+	margin-right:450px;
+}
+
+body :nth-child(7) {
+
+	font-size:28px;
+	margin-left:150px;
+	margin-right:150px;
+	
+}
+
+body :nth-child(8) {
+	font-size:8px;
+	margin-left:650px;
+	margin-right:-150px;
+	
+}

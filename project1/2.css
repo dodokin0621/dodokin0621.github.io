@@ -1,0 +1,41 @@
+
+
+.b1 {
+
+	margin-left: 150px;
+	margin-right:100px;
+	margin-top:-200px;
+	font-size: 8px;
+	color:red;
+
+}
+
+.b4{
+	margin-left:450px;
+	margin-right:100px;
+	margin-top:-300px;
+	font-size:88px;
+	font-family: times;
+
+}
+
+.b2{
+	float: left;
+	margin-left:100px;
+	margin-right:450px;
+	margin-top:-2800px;
+	font-size:68px;
+	color:red;
+	padding-right: 50px;
+	font-family: courier;
+}
+
+.b3{
+	margin-left:150px;
+	margin-right:200px;
+	font-size:48px;
+	padding-top: 500px;
+	font-family: helvetica;
+
+}
+

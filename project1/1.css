@@ -1,0 +1,41 @@
+.joy {
+ color: blue;
+ text-align: center;
+ padding-bottom: 150px;
+}
+
+.b1 {
+	float: right;
+	margin-left: 150px;
+	margin-right:100px;
+	font-size: 28px;
+	padding-bottom: 50px;
+}
+
+.b4{
+	margin-left:450px;
+	margin-right:100px;
+	margin-top:-100px;
+	font-size:18px;
+	font-family: times;
+
+}
+
+.b2{
+	float: left;
+	margin-left:100px;
+	margin-right:150px;
+	font-size:68px;
+	padding-right: 50px;
+	font-family: courier;
+}
+
+.b3{
+	margin-left:150px;
+	margin-right:200px;
+	font-size:48px;
+	padding-top: 500px;
+	font-family: helvetica;
+
+}
+

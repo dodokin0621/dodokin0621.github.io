@@ -1,0 +1,68 @@
+span {
+	font-style: underline;
+	font-family: courier;
+	 padding-top:20px;
+}
+
+
+body :first-child {
+    font-size:18px;
+	margin-left:550px;
+	margin-right:150px;
+	color: red;
+    
+}
+
+body :nth-child(2) {
+	font-size:8px;
+	margin-left:-250px;
+	margin-right:-50px;
+	color: yellow;
+}
+
+body :nth-child(3) {
+    font-size:8px;
+	margin-left:350px;
+	margin-right:-50px;
+	color:purple;
+	
+}
+
+body :nth-child(4) {
+	font-size:18px;
+	margin-left:550px;
+	margin-right:-50px;
+	color:blue;
+}
+
+body :nth-child(5) {
+	font-size:8px;
+	margin-left:450px;
+	margin-right:150px;
+	color:green;
+}
+
+body :nth-child(6) {
+	font-size:28px;
+	margin-left:-50px;
+	margin-right:450px;
+	color:blue;
+}
+
+body :nth-child(7) {
+
+	font-size:28px;
+	margin-left:-50px;
+	margin-right:650px;
+	margin-top:-600px;
+	color:yellow;
+	
+}
+
+body :nth-child(8) {
+	font-size:8px;
+	margin-left:-50px;
+	margin-right:-150px;
+	color:purple;
+	
+}

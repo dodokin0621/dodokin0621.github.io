@@ -1,0 +1,51 @@
+.joy {
+	font-size:80px;
+	margin-top:-110px;
+	margin-left:150px;
+}
+
+.b1 {
+	float: right;
+	margin-top:-60px;
+	margin-left: 50px;
+	margin-right:100px;
+	font-size: 26px;
+}
+
+.b4{
+	margin-left:350px;
+	margin-right:100px;
+	margin-top:-200px;
+	font-size:48px;
+	font-family: times;
+	padding-top:50px;
+	color:green;
+
+}
+
+.b2{
+	float: left;
+	margin-right:150px;
+	font-size:8px;
+	padding-right: 50px;
+	font-family: courier;
+	margin-top: -400px;
+}
+
+.b3{
+	margin-left:150px;
+	margin-right:200px;
+	font-size:48px;
+	padding-top: 500px;
+	font-family: helvetica;
+
+}
+
+.b5{
+	float: left;
+	margin-left:250px;
+	font-size:8px;
+	padding-right: 50px;
+	font-family: courier;
+	margin-top: -600px;
+
